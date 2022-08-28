@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-items: center;
+  justify-content: center;
+  align-content: center;
+}
+
+form {
+  width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+textarea {
+  width: 250px;
+  height: 150px;
+}
+
+input,
+option,
+select {
+  width: 250px;
+  height: 60px;
+  margin-top: 0px;
+}
+
+h1 {
+  text-align: center;
+}
+
+button {
+  width: 200px;
+  height: 30px;
+}
